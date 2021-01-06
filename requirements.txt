@@ -1,0 +1,13 @@
+aiocontextvars==0.2.2
+boto3==1.16.44
+botocore==1.19.44
+configparser==5.0.1
+contextvars==2.4
+immutables==0.14
+jmespath==0.10.0
+loguru==0.5.3
+pkg-resources==0.0.0
+python-dateutil==2.8.1
+s3transfer==0.3.3
+six==1.15.0
+urllib3==1.26.2
