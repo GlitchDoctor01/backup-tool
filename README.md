@@ -3,6 +3,7 @@
 1. Create config file by following example
 
 ```ini config.ini
+config.ini
 
 [s3]
 id = AWS_ID
